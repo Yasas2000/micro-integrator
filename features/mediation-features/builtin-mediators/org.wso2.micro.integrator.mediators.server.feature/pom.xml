@@ -85,6 +85,9 @@
                                     org.wso2.ei:org.wso2.carbon.mediator.cache:${project.version}
                                 </bundleDef>
                                 <bundleDef>
+                                    org.wso2.ei:org.wso2.micro.integrator.mediator.visionAI:${project.version}
+                                </bundleDef>
+                                <bundleDef>
                                     org.wso2.ei:org.wso2.micro.integrator.mediator.oauth:${project.version}
                                 </bundleDef>
                                 <bundleDef>
